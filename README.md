@@ -1,4 +1,4 @@
-# Gunasekaran Palani - Portfolio
+# Manojkumar - Portfolio
 
 A modern, responsive portfolio website built with Astro.js and TailwindCSS, showcasing my skills, projects, and professional journey.
 
@@ -99,7 +99,7 @@ All commands are run from the root of the project, from a terminal:
 ## � Contact
 
 - Email: gunapalani19@outlook.com
-- LinkedIn: [Gunasekaran Palani](https://www.linkedin.com/in/gunasekaran-palani-41a0ab223/)
+- LinkedIn: [Manojkumar](https://www.linkedin.com/in/gunasekaran-palani-41a0ab223/)
 - Phone: +91 9791146452
 
 ## 📄 License
