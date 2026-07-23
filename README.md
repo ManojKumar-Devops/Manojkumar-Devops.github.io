@@ -100,7 +100,7 @@ All commands are run from the root of the project, from a terminal:
 
 - Email: gunapalani19@outlook.com
 - LinkedIn: [Gunasekaran Palani](https://www.linkedin.com/in/gunasekaran-palani-41a0ab223/)
-- Phone: +91 9751143913
+- Phone: +91 9791146452
 
 ## 📄 License
 
